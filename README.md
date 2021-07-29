@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Setup
 
-To create the project, the following commands were used:
+To create the project, the following commands were used.
 
 ```bash
 ng new angular-jest
